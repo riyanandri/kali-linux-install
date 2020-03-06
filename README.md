@@ -22,7 +22,7 @@ https://www.virtualbox.org/wiki/Downloads
 # Installing
 Full tutorial see on youtube Himanifo UMMgl
 
-https://www.youtube.com/channel/UCNhRSFjyB7N6brc4Kt1TM7Q
+https://youtu.be/OE8adanM_6k
 
 # That's for now
 Saya rasa sudah cukup, kalau ada kendala selama proses instalasi bisa hubungi saya
