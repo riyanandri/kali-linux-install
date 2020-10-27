@@ -6,7 +6,7 @@ I'm not a Pro. I just started learning Linux one year ago. And I'm not an IT guy
 
 # Requirements
  - Minimal kapasitas harddisk yang dibutuhkan 20 GB
- - RAM untuk i386 (32bit) dan amd64 (64bit) yaitu 1BG, direkomendasikan 2GB keatas
+ - RAM untuk i386 (32bit) dan amd64 (64bit) yaitu 1GB, direkomendasikan 2GB keatas
  - Support Virtualisasi 
  - Secangkir kopi dan cemilan bila dibutuhkan :)
  
