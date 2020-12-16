@@ -20,13 +20,13 @@ Download virtualbox and extensions
 https://www.virtualbox.org/wiki/Downloads
 
 # Installing
-Full tutorial see on youtube Himanifo UMMgl
+Full tutorial see on youtube Himanifo UNIMMA
 
 https://youtu.be/OE8adanM_6k
 
 # That's for now
 Saya rasa sudah cukup, kalau ada kendala selama proses instalasi bisa hubungi saya
 
-WA/Telegram 082323369163
+WA/Telegram 085328179759
 
 Thank's for reading :*
